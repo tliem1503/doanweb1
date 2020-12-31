@@ -1,0 +1,82 @@
+
+
+#footer{
+	height: auto;
+	border-radius: 10px;
+	text-align: center;
+	background: #424242;
+	color: #E6E6E6;
+}
+#menu{
+	padding: 10px 0px 10px 0px;
+	background: #BDBDBD;
+	border-radius: 10px;
+
+}
+#content-left{
+	
+}
+#content-left-up li{
+	list-style: none;
+	text-align: center;
+	color: #3B170B;
+}
+#content-left-up li a{
+	display: block;
+	color: #5858FA;
+	text-decoration: none;
+}
+#content-left-up li a:hover{
+	color: #01DF01;
+}
+
+#content-left-down li{
+	list-style: none;
+	text-align: center;
+	color: #3B170B;
+
+}
+#content-left-down li a{
+	display: block;
+	color: #5858FA;
+	text-decoration: none;
+}
+#content-left-down li a:hover{
+	color: #01DF01;
+}
+#content-right{
+	width: 100%;
+	height: 500px;
+}
+.content-right-box{
+	float: left;
+	background: #F2F2F2;
+}
+#content-right .content-right-box{
+	border: 1px solid #BDBDBD;
+	width: 266px;
+	height: 315px;
+	padding: 10px;
+}
+#content-right .content-right-box img{
+	width: 240px;
+	height: 200px;
+}
+#content-right .content-right-box li{
+	list-style: none;
+	text-align: center;
+}
+#content-right .content-right-box li a{
+	display: block;
+	text-decoration: none;
+	color: #FE2E2E;
+}
+#content-right .content-right-box li a:hover{
+	color: #FFFF00;
+}
+#giohang{
+	border: 1px solid #000;
+}
+.table .table-bordered{
+	
+}
